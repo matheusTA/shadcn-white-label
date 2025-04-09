@@ -3,6 +3,10 @@
 A lightweight utility to enable **white-label theming** in applications built with **ShadCN UI** and **TailwindCSS**.
 Easily apply custom branding (colors for light/dark themes) dynamically per user or tenant — ideal for SaaS platforms.
 
+## 🎥 Demonstração
+
+https://github.com/matheusta/shadcn-white-label/blob/main/example/demo.mp4
+
 ---
 
 ## 🚀 Installation
